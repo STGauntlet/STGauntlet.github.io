@@ -5,7 +5,7 @@ The primary goal of hand gesture recognition with wearables is to facilitate the
 bones and detects hand gestures in real-time. In particular, our framework incorporates Lie group-based representation to capture the inherent structural varieties of hand motions with spatio-temporal dependencies among multiple bones. To evaluate our framework, we developed a hand-worn prototype device with multiple motion sensors. Our in-lab study on a dataset collected from nine subjects suggests our approach significantly outperforms the state-of-the-art methods. In particular, we show in-wild examples that highlight the interaction capability of our framework.
 
 ## Hardware Apparatus
-
+<img src="/f2.jpg" width="100%">
 
 
 ## Example Applications
