@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# Recognizing Hand Gestures by a Lie Group Based Saptio-Temporal Recurrent Network with Multiple Hand-Worn Motion Sensors
 
-You can use the [editor on GitHub](https://github.com/STGauntlet/STGauntlet.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/STGauntlet/STGauntlet.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Introduction
+The primary goal of hand gesture recognition with wearables is to facilitate the realization of gestural user interfaces in mobile and ubiquitous environments. A key challenge in wearable-based hand gesture recognition is the fact that a hand gesture can be performed in several ways, with each consisting of its own configuration of motions and their spatio-temporal dependencies. However, the existing methods generally focus on the characteristics of a single point on hand, but ignores the diversity of motion information over hand skeleton, and as a result, they suffer from two key challenges to characterize hand gestures over multiple wearable sensors: motion representation and motion modeling. This leads us to define a spatio-temporal framework, named STGauntlet, that explicitly characterizes the hand motion context of spatio-temporal relations among multiple
+bones and detects hand gestures in real-time. In particular, our framework incorporates Lie group-based representation to capture the inherent structural varieties of hand motions with spatio-temporal dependencies among multiple bones. To evaluate our framework, we developed a hand-worn prototype device with multiple motion sensors. Our in-lab study on a dataset collected from nine subjects suggests our approach significantly outperforms the state-of-the-art methods. In particular, we show in-wild examples that highlight the interaction capability of our framework.
