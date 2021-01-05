@@ -7,3 +7,12 @@ bones and detects hand gestures in real-time. In particular, our framework incor
 ## Example Applications
 ### Motion Sensing Games Adapte
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/8Faq7oagCZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Unmanned Car Remote Controller
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Qj9EX-HSJqA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Virtual Laboratory
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/VDewVvHK2gU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Hand Function Rehabilitation Training Assistant
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/-APmvxn6NHU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
